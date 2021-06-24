@@ -8,7 +8,7 @@ to find trends within the past 4,000 projects.
 
 ## Analysis
 
-#Excel Sheet Description
+# Excel Sheet Description
 
 ## Tab 1: StarterBook
 Tab one is the data retrieved from Kickstarter. The data included the following columns:  
