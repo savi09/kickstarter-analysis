@@ -65,3 +65,9 @@ failed, or canceled divided goal range. A line chart is included to visualize th
 between goal range and chance of being successful, failing, or being canceled.
 
 ## Tab 6: Statistical Analysis
+
+Tab six includes data extracted from the initial data tab, a summary table of backers and a
+box plot. Campaign state (outcome) and the number of backers (backers_count) was extracted 
+into this tab. The summary table includes the mean, median, minimum, maximum, variance, 
+and standard deviation of the count of campaign backers. The box plot visualizes the number 
+of outliers.
