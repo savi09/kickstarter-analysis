@@ -53,9 +53,15 @@ category to better understand this trend based on campaigns' location and/or cat
 
 ## Tab 4: Pivot_Date
 
-Tab four includes a line graph pivot chart to view the state of campaigns based on the date
-the campaign launched their project on Kickstarter. This chart can be filtered by campaign primary 
-category and year launched.
+Tab four includes a line graph pivot chart to visualize the relationship 
+between the number of successful, failing, or canceled campaigns and date
+the campaign launched their project on Kickstarter. This chart can be filtered by campaigns' 
+primary category and year launched.
 
 ## Tab 5: Goal
+
+Tab five includes a table with the number and percentages of campaigns that are successful, 
+failed, or canceled divided goal range. A line chart is included to visualize the relationship 
+between goal range and chance of being successful, failing, or being canceled.
+
 ## Tab 6: Statistical Analysis
