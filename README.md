@@ -46,6 +46,11 @@ or failed) of campaigns based on their primiary category. This chart can be filt
 campaign country location to better understand the trend based on campaigns' location.
 
 ## Tab 3: Pivot_SubcatState
+
+Tab three includes a stakced column pivot chart to view the state of campaigns based on their 
+secondary category. This chart can be filtered by campaign country location and primary 
+category to better understand the trend based on campaigns' location.
+
 ## Tab 4: Pivot_Date
 ## Tab 5: Goal
 ## Tab 6: Statistical Analysis
