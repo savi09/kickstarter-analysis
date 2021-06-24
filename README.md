@@ -6,6 +6,10 @@ The data was retirieved from Kickstarter. Kickstarter is a service where organiz
 can post projects to look for funding. Not all projects are successful. Excel was used 
 to find trends within the past 4,000 projects.
 
+## Analysis
+
+#Excel Sheet Description
+
 ## Tab 1: StarterBook
 Tab one is the data retrieved from Kickstarter. The data included the following columns:  
 Project ID (id), Project Name (name), A short blurb about the project (blurb), project 
@@ -16,7 +20,7 @@ Kickstarter (launched_at), staff pick (staff_pick), the number of people who mad
 pledge to the project (backers_count), spotlight, and the category and subcategory of the 
 project (Category and Sub-Category)
 
-# Added columns
+### Added columns
   Percent Funded = pledged/goal  
   Average Donation = pledged/backers_count  
   Category = LEFT(N2,(FIND("/",N2,1)-1)) (Seperates Category and Sub-category column)  
@@ -36,3 +40,7 @@ The percent funded column was formatted using three-color scale.
     200% - Blue  
     
 ## Tab 2: Pivot_CategoryState
+## Tab 3: Pivot_SubcatState
+## Tab 4: Pivot_Date
+## Tab 5: Goal
+## Tab 6: Statistical Analysis
