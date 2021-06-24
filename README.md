@@ -49,8 +49,13 @@ campaign country location to better understand the trend based on campaigns' loc
 
 Tab three includes a stakced column pivot chart to view the state of campaigns based on their 
 secondary category. This chart can be filtered by campaign country location and primary 
-category to better understand the trend based on campaigns' location.
+category to better understand this trend based on campaigns' location and/or category.
 
 ## Tab 4: Pivot_Date
+
+Tab four includes a line graph pivot chart to view the state of campaigns based on the date
+the campaign launched their project on Kickstarter. This chart can be filtered by campaign primary 
+category and year launched.
+
 ## Tab 5: Goal
 ## Tab 6: Statistical Analysis
