@@ -40,6 +40,11 @@ The percent funded column was formatted using three-color scale.
     200% - Blue  
     
 ## Tab 2: Pivot_CategoryState
+
+Tab two includes a stakced column pivot chart to view the state (live, successful, canceled, 
+or failed) of campaigns based on their primiary category. This chart can be filtered by 
+campaign country location to better understand the trend based on campaigns' location.
+
 ## Tab 3: Pivot_SubcatState
 ## Tab 4: Pivot_Date
 ## Tab 5: Goal
