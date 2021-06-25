@@ -8,6 +8,8 @@ to find trends within the past 4,000 projects.
 
 ## Analysis
 
+
+
 # Excel Sheet Description
 
 ## Tab 1: StarterBook
@@ -29,8 +31,8 @@ project (Category and Sub-Category)
   Date Ended Conversion = (((I2/60)/60)/24)+DATE(1970,1,1) (Converts Unix timestamps/ deadline)  
 
 The state column was formatted to make the state of the campaign visible.  
-    Deep Green - The project is **live**.  
-    Light Green - The project is **successful**. The project met or exceeded its fundraising goal.  
+    Deep Green - The project is **successful**. The project met or exceeded its fundraising goal.
+    Light Green - The project is **live**.   
     Yellow - The project was **canceled**.  
     Red - The project **failed**.  
     
