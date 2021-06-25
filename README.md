@@ -8,7 +8,22 @@ to find trends within the past 4,000 projects.
 
 ## Analysis
 
+### Results
+Conclusion one: 
+    The main differnce between successful and unsuccessful campaign is the number of 
+    project backers. The median amount of backers for unsuccessful campaigns was four, 
+    while successful campaign had sixty-two backers. Median is a better measurement of
+    the the data's central tendency, because there are too many outliers that are skewing 
+    the distribution. Variability is greater in successful campaigns because they have 
+    different funding goals. Some campaigns need more backers to meet their goals, while 
+    others need less.
+    
+Conclsion two:
+    
 
+### Data Limitations
+
+### Next Steps
 
 # Excel Sheet Description
 
