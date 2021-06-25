@@ -2,7 +2,7 @@
 Kickstarter excel analysis
 
 ## About Kickstater Analysis
-The data was retirieved from Kickstarter. Kickstarter is a service where organizations 
+The data was retrieved from Kickstarter. Kickstarter is a service where organizations 
 can post projects to look for funding. Not all projects are successful. Excel was used 
 to find trends within the past 4,000 projects.
 
@@ -10,16 +10,20 @@ to find trends within the past 4,000 projects.
 
 ### Results
 Conclusion one: 
-    The main differnce between successful and unsuccessful campaign is the number of 
-    project backers. The median amount of backers for unsuccessful campaigns was four, 
-    while successful campaign had sixty-two backers. Median is a better measurement of
-    the the data's central tendency, because there are too many outliers that are skewing 
-    the distribution. Variability is greater in successful campaigns because they have 
-    different funding goals. Some campaigns need more backers to meet their goals, while 
-    others need less.
+    The main differnce between Kickstarter's successful and unsuccessful campaign is 
+    the number of project backers. The median amount of backers for unsuccessful 
+    campaigns was four, while successful campaign had sixty-two backers. Median is a 
+    better measurement of the the data's central tendency, because there are too many 
+    outliers that are skewing the distribution. Variability is greater in successful 
+    campaigns because they have different funding goals. Some campaigns need more backers 
+    to meet their goals, while others need less.
     
 Conclsion two:
-    The most successful categories
+    Kickstarters top 3 primary categories that met or exceeded their goal were music with 
+    77.14% of projects, theatre projects with 60.23%, and film & video with 57.69%.
+
+Conclusion three:
+    
 
 ### Data Limitations
     Do not have equivalent currencies.
@@ -28,6 +32,10 @@ Conclsion two:
 ### Next Steps
     Compare blurbs: Do blurbs from successful campaigns have anything in common? What 
      about for unsuccessful campaigns?
+    Compare by currencies: Compare success rates by the currency or equate the goals. 
+     This could resolve issues with outliers.
+    Compare by country: Compare success rates by countries. There are systematic differences 
+     across countries. This will shed light on some trends that might be worth noting.
     
 
 # Excel Sheet Description
