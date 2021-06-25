@@ -23,20 +23,22 @@ Conclsion two:
     77.14% of projects, theatre projects with 60.23%, and film & video with 57.69%.
 
 Conclusion three:
-    
+    Documentaries, hardware technology, and rock music subcategories received 100% success
+    and had over 100 campaigns launched.
 
 ### Data Limitations
-    Do not have equivalent currencies.
-    Too many outliers.
+    Project goals use different currencies.
+    Too many outliers that skews data.
+    Cultural or personal preferences of backers might determine which projects they are 
+        willing to fund
     
 ### Next Steps
     Compare blurbs: Do blurbs from successful campaigns have anything in common? What 
-     about for unsuccessful campaigns?
+        about for unsuccessful campaigns?
     Compare by currencies: Compare success rates by the currency or equate the goals. 
-     This could resolve issues with outliers.
+        This could resolve issues with outliers.
     Compare by country: Compare success rates by countries. There are systematic differences 
-     across countries. This will shed light on some trends that might be worth noting.
-    
+        across countries. This will shed light on some trends that might be worth noting.
 
 # Excel Sheet Description
 
