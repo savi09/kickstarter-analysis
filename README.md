@@ -19,11 +19,16 @@ Conclusion one:
     others need less.
     
 Conclsion two:
-    
+    The most successful categories
 
 ### Data Limitations
-
+    Do not have equivalent currencies.
+    Too many outliers.
+    
 ### Next Steps
+    Compare blurbs: Do blurbs from successful campaigns have anything in common? What 
+     about for unsuccessful campaigns?
+    
 
 # Excel Sheet Description
 
